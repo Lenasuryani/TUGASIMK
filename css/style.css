@@ -67,7 +67,7 @@ header ul li a:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #1abc9c;
+	background-image: url(`../img foto.jpeg`);
 }
 .banner h2 {
 	color: #fff;
